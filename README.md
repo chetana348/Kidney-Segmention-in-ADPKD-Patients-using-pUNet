@@ -1,4 +1,4 @@
-# pUNet Medical Image Segmentation
+# PCAnnUNet Medical Image Segmentation
 Segments kidneys from ADPKD patient kidney images
 
 
