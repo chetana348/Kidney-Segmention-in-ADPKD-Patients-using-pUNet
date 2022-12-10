@@ -146,3 +146,7 @@ https://simpleitk.readthedocs.io/en/master/Documentation/docs/source/fundamental
 https://simpleitk.github.io/SPIE2018_COURSE/data_augmentation.pdf
 https://simpleitk.github.io/SPIE2018_COURSE/spatial_transformations.pdf
 
+Authors:
+PI: Dr. Hyunki (Harrison) Kim
+
+Graduate MS Student: Chetana Krishnan
